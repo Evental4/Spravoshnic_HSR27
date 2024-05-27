@@ -1,0 +1,46 @@
+Келус, SapDD, Физический, Разрушение, Hp 1203, Def 460, Atc 620, Spid 100, D, https://honkai-star-rail.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B5%D1%86
+Блейд, DD, Ветреной, Разрушение, 1400, 800, 420, 97, A, https://honkai-star-rail.fandom.com/ru/wiki/%D0%91%D0%BB%D1%8D%D0%B9%D0%B4
+Жуань Мэй, Sap, Леденой, Гармония, 1100, 400, 520, 100, S, https://honkai-star-rail.fandom.com/ru/wiki/%D0%96%D1%83%D0%B0%D0%BD%D1%8C_%D0%9C%D1%8D%D0%B9
+ХоХо, Hiler, Ветреной, Изобилие, 1434, 600, 420, 102, S, https://honkai-star-rail.fandom.com/ru/wiki/%D0%A5%D0%BE%D1%85%D0%BE
+Броня, Sap, Ветреной, Гармония, 1200, 450, 520, 100, A, https://honkai-star-rail.fandom.com/ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%8F
+Доктор Рацио, DD, Мнимый, Охота, 1200, 450, 620, 100, A, https://honkai-star-rail.fandom.com/ru/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%A0%D0%B0%D1%86%D0%B8%D0%BE
+Дань Хен, DD, Ветреной, Охота, 1150, 450, 540, 100, C, https://honkai-star-rail.fandom.com/ru/wiki/%D0%94%D0%B0%D0%BD%D1%8C_%D0%A5%D1%8D%D0%BD
+Цзин Юань, DD, Электрический, Эрудикция, 1200, 450, 720, 99, A, https://honkai-star-rail.fandom.com/ru/wiki/%D0%A6%D0%B7%D0%B8%D0%BD_%D0%AE%D0%B0%D0%BD%D1%8C
+Пела, Debaffer, Леденой, Небытие, 1100, 400, 450, 97, B, https://honkai-star-rail.fandom.com/ru/wiki/%D0%9F%D0%B5%D0%BB%D0%B0
+Фу cюань, Defens, Квантовый, Сохранение, 1489, 600, 600, 100, S, https://honkai-star-rail.fandom.com/ru/wiki/%D0%A4%D1%83_%D0%A1%D1%8E%D0%B0%D0%BD%D1%8C
+Гепардт, Defens, Леденой, Сохранение, 1356, 890, 400, 97, B, https://honkai-star-rail.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BF%D0%B0%D1%80%D0%B4
+Сампо, SapDD, Ветреной, Небытие, 1200, 489, 579, 100, B, https://honkai-star-rail.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BC%D0%BF%D0%BE
+Хук, DD, Огненый, Разрушение, 1200, 567, 684, 100, С, https://honkai-star-rail.fandom.com/ru/wiki/Хук
+Миша, DD, Леденой, Разрушение, 1270, 396, 599, 96, C, https://honkai-star-rail.fandom.com/ru/wiki/Миша
+Пом-Пом, НИП, -, -, 0, 0, 0, 0, SSS, https://honkai-star-rail.fandom.com/ru/wiki/Пом-Пом
+Коколия, НИП, -, -, 0, 0, 0, 0, F, https://honkai-star-rail.fandom.com/ru/wiki/Коколия
+Аргенти, DD, Физический, Эрудикция, 1047, 363, 737, 103, A, https://honkai-star-rail.fandom.com/ru/wiki/Аргенти
+Аста, Sap, Огненый, Гармония, 1023, 465, 511, 106, S, https://honkai-star-rail.fandom.com/ru/wiki/Аста
+Вельт, SapDD, Квантовый, Небытие, 1125, 509, 620, 102, B, https://honkai-star-rail.fandom.com/ru/wiki/Вельт
+Гуйнайфэнь, Debaffer, Огненый, Небытие, 882, 441, 582, 106, B, https://honkai-star-rail.fandom.com/ru/wiki/Гуйнайфэнь
+Цзинлю, DD, Леденой, Разрушение, 1435, 485, 679, 96, S, https://honkai-star-rail.fandom.com/ru/wiki/%D0%A6%D0%B7%D0%B8%D0%BD%D0%BB%D1%8E
+Король Мусорных Баков, НИП, -, -, -1, -1, 10000, 100, SSS, 
+Байлу, Hiler, Электрический, Изобилие, 1319, 485, 562, 98, B, https://honkai-star-rail.fandom.com/ru/wiki/%D0%91%D0%B0%D0%B9%D0%BB%D1З%83
+Арлан, DD, Электрический, Разрушение, 1199, 330, 599, 102, С, https://honkai-star-rail.fandom.com/ru/wiki/%D0%90%D1%80%D0%BB%D0%B0%D0%BD
+Герта, DD, Леденой, Эрудикция, 952, 396, 582, 100, С, https://honkai-star-rail.fandom.com/ru/wiki/%D0%93%D0%B5%D1%80%D1%82%D0%B0
+Пожиратель Луны, DD, Мнимый, Разрушение, 1241, 363, 698, 102, A, https://honkai-star-rail.fandom.com/ru/wiki/%D0%94%D0%B0%D0%BD%D1%8C_%D0%A5%D1%8D%D0%BD:_%D0%9F%D0%BE%D0%B6%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%9B%D1%83%D0%BD%D1%8B
+Зеле, DD, Квантовый, Охота, 931, 363, 640, 115, A, https://honkai-star-rail.fandom.com/ru/wiki/Зеле
+Кафка, DD, Электрический, Небытие, 1086, 485, 679, 100, S, https://honkai-star-rail.fandom.com/ru/wiki/Кафка
+Клара, DD, Физический, Разрушение, 1241, 485, 737, 90, B, https://honkai-star-rail.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%B0
+Лоча, Hiler, Мнимый, Изобилие, 1280, 363, 756, 101, S, https://honkai-star-rail.fandom.com/ru/wiki/Лоча
+Лука, Debaffer, Физический, Небытие, 917, 485, 582, 103, B, https://honkai-star-rail.fandom.com/ru/wiki/Лука
+Март 7, Defens, Леденой, Сохранение, 1058, 573, 511, 101, D, https://honkai-star-rail.fandom.com/ru/wiki/Март 7
+Наташа, Hiler, Физический, Изобилие, 1164, 507, 476, 98, C, https://honkai-star-rail.fandom.com/ru/wiki/Наташа
+Рысь, Hiler, Квантовый, Изобилие, 1058, 551, 493, 100, B, https://honkai-star-rail.fandom.com/ru/wiki/Рысь
+Сервал, SapDD, Электрический, Эрудикция, 917, 374, 652, 104, C, https://honkai-star-rail.fandom.com/ru/wiki/Сервал
+Серебреный волк, Debaffer, Квантовый, Небытие, 1047, 460, 640, 107, S, https://honkai-star-rail.fandom.com/ru/wiki/Серебреный волк
+Стелла, Defens, Огненый, Сохранение, 1241, 606, 601, 95, B, https://honkai-star-rail.fandom.com/ru/wiki/Стелла
+Сюэи, DD, Квантовый, Разрушение, 1058, 396, 599, 103, B, https://honkai-star-rail.fandom.com/ru/wiki/Сюэи
+Сушан, DD, Физический, Охота, 917, 418, 564, 107, C, https://honkai-star-rail.fandom.com/ru/wiki/Сушан
+Топаз, DD, Огненый, Охота, 931 , 412, 620, 110, S, https://honkai-star-rail.fandom.com/ru/wiki/Топаз
+Ханья, Sap, Физический, Гармония, 917, 352, 564, 110, B, https://honkai-star-rail.fandom.com/ru/wiki/Ханья
+Тинъюнь, Sap, Электрический, Гармония, 846, 396, 529, 112, A, https://honkai-star-rail.fandom.com/ru/wiki/Тинъюнь
+Химеко, DD, Огненый, Эрудикция, 1047 , 426, 756, 96, C, https://honkai-star-rail.fandom.com/ru/wiki/Химеко
+Цинцюе, DD, Квантовый, Эрудикция, 1023, 441, 652, 98, C, https://honkai-star-rail.fandom.com/ru/wiki/Цинцюе
+Юйкун, Sap, Мнимый, Гармония, 917, 374, 599, 107, B, https://honkai-star-rail.fandom.com/ru/wiki/Юйкун
+Яньцин, DD, Леденой, Охота, 892, 412, 679, 109, B, https://honkai-star-rail.fandom.com/ru/wiki/Яньцин
