@@ -38,11 +38,11 @@
             // 
             this.textBox.Enabled = false;
             this.textBox.HideSelection = false;
-            this.textBox.Location = new System.Drawing.Point(89, 138);
+            this.textBox.Location = new System.Drawing.Point(89, 114);
             this.textBox.Multiline = true;
             this.textBox.Name = "textBox";
             this.textBox.ShortcutsEnabled = false;
-            this.textBox.Size = new System.Drawing.Size(462, 376);
+            this.textBox.Size = new System.Drawing.Size(462, 400);
             this.textBox.TabIndex = 0;
             this.textBox.Text = resources.GetString("textBox.Text");
             this.textBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
