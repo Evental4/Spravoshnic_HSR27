@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace Spravoshnic_HSR
 {
@@ -15,18 +16,27 @@ namespace Spravoshnic_HSR
         public CenterForm()
         {
             InitializeComponent();
+           pictureBox.Load("../../Pictures/fon.png");
         }
-
+        //справка
         private void Helpbutton_Click(object sender, EventArgs e)
         {
             HelpForm help = new HelpForm();
             help.ShowDialog();
         }
-
+        //вход в справочник
         private void Enterbutton_Click(object sender, EventArgs e)
         {
             MainForm spr = new  MainForm();
             spr.ShowDialog();
+            Close();
         }
+        //выход
+        private void Exitbutton_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        
     }
 }

@@ -78,14 +78,20 @@ namespace Spravoshnic_HSR
         string FileName = "";
 
         
-        private void PicButton_Click_1(object sender, EventArgs e)
-        {
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-                 FileName = openFileDialog.FileName;
-                 PersPictureBox.Load(FileName);
-            }
+        
 
+        private void PersPictureBox_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PicButton_Click(object sender, EventArgs e)
+        {
+            if(openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                FileName = openFileDialog1.FileName;
+                PersPictureBox.Load(FileName);
+            }
         }
     }
 }

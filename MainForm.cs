@@ -62,9 +62,11 @@ namespace Spravoshnic_HSR
     #endregion
     public partial class MainForm : System.Windows.Forms.Form
     {
-
+        
         public static List<Pers> Pers_list = new List<Pers>();
+        //логин
         public static string Login = "";
+        // крик претубреждения
         System.Media.SoundPlayer player_error = new System.Media.SoundPlayer(@"../../Saund/error.wav");
 
         public MainForm()
@@ -209,12 +211,26 @@ namespace Spravoshnic_HSR
             FeedBackForm feedBackForm = new FeedBackForm();
             feedBackForm.ShowDialog();
         }
-
+        //
         private void ViewPanel_Paint(object sender, PaintEventArgs e)
         {
             FindButton_Click(null, null);
         }
         //объект
+        #region описание объекта
+        public static void Pers_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < Pers_list.Count; ++i)
+            {
+                if (((Button)sender).Text == Pers_list[i].btn.Text)
+                {
+                    InfnoForm info = new InfnoForm(Pers_list[i]);
+                    info.ShowDialog();
+
+                }
+            }
+        }
+        #endregion
         private void MainForm_Load_1(object sender, EventArgs e)
         {
             #region Чтение обекта
@@ -253,20 +269,7 @@ namespace Spravoshnic_HSR
                 }
             }
             #endregion
-            #region описание объекта
-            public static void Pers_Click(object sender, EventArgs e)
-            {
-                for (int i = 0; i < Pers_list.Count; ++i)
-                {
-                    if (((Button)sender).Text == Pers_list[i].btn.Text)
-                    {
-                        InfnoForm info = new InfnoForm(Pers_list[i]);
-                        info.ShowDialog();
-
-                    }
-                }
-            }
-            #endregion
+            
         }
         #region добовление объекта
         private void добавлениеОбъектаToolStripMenuItem_Click_1(object sender, EventArgs e)

@@ -19,9 +19,11 @@ namespace Spravoshnic_HSR
         public HelpForm()
         {
             InitializeComponent();
-       
+
+            //
+            pictureBox1.Load("../../Pictures/BackHelp.png");
         }
 
-       }
     }
+}
 

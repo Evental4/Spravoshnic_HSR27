@@ -61,17 +61,17 @@
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Controls.Add(this.Здоровье, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.label5, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label4, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.label6, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.HpLabel, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.DefLabel, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.AtcLabel, 1, 2);
             this.tableLayoutPanel1.Controls.Add(this.SpidLabel, 1, 3);
             this.tableLayoutPanel1.Controls.Add(this.label7, 0, 4);
             this.tableLayoutPanel1.Controls.Add(this.RancsLabel, 1, 4);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(828, 62);
+            this.tableLayoutPanel1.Controls.Add(this.HpLabel, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.Здоровье, 0, 0);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(828, 79);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 51.16279F));
@@ -176,7 +176,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(823, 34);
+            this.label3.Location = new System.Drawing.Point(823, 51);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(166, 25);
             this.label3.TabIndex = 32;
@@ -234,7 +234,7 @@
             // 
             this.AddSelectBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.AddSelectBTN.ForeColor = System.Drawing.Color.Red;
-            this.AddSelectBTN.Location = new System.Drawing.Point(946, -7);
+            this.AddSelectBTN.Location = new System.Drawing.Point(946, 5);
             this.AddSelectBTN.Name = "AddSelectBTN";
             this.AddSelectBTN.Size = new System.Drawing.Size(178, 38);
             this.AddSelectBTN.TabIndex = 26;

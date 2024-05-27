@@ -61,6 +61,7 @@
             this.NameTextBox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.Sevebutton = new System.Windows.Forms.Button();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.PersPictureBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,6 +73,7 @@
             this.PicButton.TabIndex = 71;
             this.PicButton.Text = "Добавить картинку\r\n";
             this.PicButton.UseVisualStyleBackColor = true;
+            this.PicButton.Click += new System.EventHandler(this.PicButton_Click);
             // 
             // PersPictureBox
             // 
@@ -82,6 +84,7 @@
             this.PersPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PersPictureBox.TabIndex = 70;
             this.PersPictureBox.TabStop = false;
+            this.PersPictureBox.Click += new System.EventHandler(this.PersPictureBox_Click);
             // 
             // InfoTextBox
             // 
@@ -392,6 +395,10 @@
             this.Sevebutton.UseVisualStyleBackColor = true;
             this.Sevebutton.Click += new System.EventHandler(this.Sevebutton_Click_1);
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
             // AddPersForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
@@ -475,5 +482,6 @@
         private System.Windows.Forms.TextBox NameTextBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button Sevebutton;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }

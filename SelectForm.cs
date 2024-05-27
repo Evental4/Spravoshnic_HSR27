@@ -98,11 +98,6 @@ namespace Spravoshnic_HSR
                 Controls.Add(btn1);
                 #endregion
 
-                #region Эйдолоны
-
-                #endregion
-
-
                 y += 200;
             }
 

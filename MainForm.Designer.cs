@@ -61,7 +61,7 @@
             this.ViewPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ViewPanel.Location = new System.Drawing.Point(0, 185);
             this.ViewPanel.Name = "ViewPanel";
-            this.ViewPanel.Size = new System.Drawing.Size(1031, 442);
+            this.ViewPanel.Size = new System.Drawing.Size(1031, 424);
             this.ViewPanel.TabIndex = 11;
             this.ViewPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.ViewPanel_Paint);
             // 
@@ -111,7 +111,7 @@
             // 
             // FindButton
             // 
-            this.FindButton.Location = new System.Drawing.Point(920, 53);
+            this.FindButton.Location = new System.Drawing.Point(919, 44);
             this.FindButton.Name = "FindButton";
             this.FindButton.Size = new System.Drawing.Size(100, 46);
             this.FindButton.TabIndex = 7;
@@ -286,7 +286,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1031, 627);
+            this.ClientSize = new System.Drawing.Size(1031, 609);
             this.Controls.Add(this.ViewPanel);
             this.Controls.Add(this.FiltrPanel);
             this.Controls.Add(this.UserPanel);
