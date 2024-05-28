@@ -17,16 +17,15 @@ namespace Spravoshnic_HSR
         public SelectForm()
         {
             InitializeComponent();
-
             Draw();
         }
-
+        //рисование объекта на форме
         void Draw()
         {
             Controls.Clear();
             Controls.Add(InfoPanel);
-
             int y = 90;
+
             foreach (KeyValuePair<Pers, int> my_pers in my_pers_list)
             {
                 Pers pers = my_pers.Key;
@@ -102,7 +101,7 @@ namespace Spravoshnic_HSR
             }
 
         }
-
+        //удаление с формы объекта
         void DeleteClik(object sender, EventArgs e)
         {
             int i = 0;
@@ -125,13 +124,13 @@ namespace Spravoshnic_HSR
             my_pers_list = my_pers;
             Draw();
         }
-
-
+        //отправка списка избраного
         private void SengButton_Click_1(object sender, EventArgs e)
         {
             SendForm sendForm = new SendForm();
             sendForm.ShowDialog();
         }
+
     }
 }
 

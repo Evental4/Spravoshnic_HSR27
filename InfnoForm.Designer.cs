@@ -29,16 +29,16 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.Здоровье = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.HpLabel = new System.Windows.Forms.Label();
             this.DefLabel = new System.Windows.Forms.Label();
             this.AtcLabel = new System.Windows.Forms.Label();
             this.SpidLabel = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.RancsLabel = new System.Windows.Forms.Label();
+            this.HpLabel = new System.Windows.Forms.Label();
+            this.Здоровье = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.TippictureBox = new System.Windows.Forms.PictureBox();
             this.PytepictureBox = new System.Windows.Forms.PictureBox();
@@ -82,15 +82,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(296, 273);
             this.tableLayoutPanel1.TabIndex = 33;
             // 
-            // Здоровье
-            // 
-            this.Здоровье.AutoSize = true;
-            this.Здоровье.Location = new System.Drawing.Point(3, 0);
-            this.Здоровье.Name = "Здоровье";
-            this.Здоровье.Size = new System.Drawing.Size(101, 24);
-            this.Здоровье.TabIndex = 0;
-            this.Здоровье.Text = "Здоровье\r\n";
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -117,15 +108,6 @@
             this.label6.Size = new System.Drawing.Size(96, 24);
             this.label6.TabIndex = 24;
             this.label6.Text = "Скорость";
-            // 
-            // HpLabel
-            // 
-            this.HpLabel.AutoSize = true;
-            this.HpLabel.Location = new System.Drawing.Point(151, 0);
-            this.HpLabel.Name = "HpLabel";
-            this.HpLabel.Size = new System.Drawing.Size(60, 24);
-            this.HpLabel.TabIndex = 25;
-            this.HpLabel.Text = "label7";
             // 
             // DefLabel
             // 
@@ -171,6 +153,24 @@
             this.RancsLabel.Size = new System.Drawing.Size(103, 24);
             this.RancsLabel.TabIndex = 30;
             this.RancsLabel.Text = "Rancslabel";
+            // 
+            // HpLabel
+            // 
+            this.HpLabel.AutoSize = true;
+            this.HpLabel.Location = new System.Drawing.Point(151, 0);
+            this.HpLabel.Name = "HpLabel";
+            this.HpLabel.Size = new System.Drawing.Size(60, 24);
+            this.HpLabel.TabIndex = 25;
+            this.HpLabel.Text = "label7";
+            // 
+            // Здоровье
+            // 
+            this.Здоровье.AutoSize = true;
+            this.Здоровье.Location = new System.Drawing.Point(3, 0);
+            this.Здоровье.Name = "Здоровье";
+            this.Здоровье.Size = new System.Drawing.Size(101, 24);
+            this.Здоровье.TabIndex = 0;
+            this.Здоровье.Text = "Здоровье\r\n";
             // 
             // label3
             // 
@@ -260,7 +260,7 @@
             this.InfotextBox.Multiline = true;
             this.InfotextBox.Name = "InfotextBox";
             this.InfotextBox.ReadOnly = true;
-            this.InfotextBox.Size = new System.Drawing.Size(425, 527);
+            this.InfotextBox.Size = new System.Drawing.Size(425, 678);
             this.InfotextBox.TabIndex = 24;
             // 
             // pictureBox1
@@ -286,7 +286,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1145, 602);
+            this.ClientSize = new System.Drawing.Size(1145, 749);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.TippictureBox);

@@ -84,7 +84,7 @@
             this.PersPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PersPictureBox.TabIndex = 70;
             this.PersPictureBox.TabStop = false;
-            this.PersPictureBox.Click += new System.EventHandler(this.PersPictureBox_Click);
+           
             // 
             // InfoTextBox
             // 

@@ -49,7 +49,7 @@ namespace Spravoshnic_HSR
                 MessageBox.Show("Spid не цисло");
                 return;
             }
-
+            #region структура персонажа
             File.AppendAllText("Pers.txt",
                                                        Environment.NewLine +
                                                        NameTextBox.Text + ", " +
@@ -62,10 +62,9 @@ namespace Spravoshnic_HSR
                                                        SpidTextBox.Text + ", " +
                                                        RancsTextBox.Text + ", " +
                                                        WebTextBox.Text);
-
+            
             File.AppendAllText("../../Pictures/" + NameTextBox.Text + ".txt", InfoTextBox.Text);
-
-
+            #endregion
             if (FileName != "")
             {
                 File.Copy(FileName, "../../Pictures/" + NameTextBox.Text + ".png");
@@ -76,14 +75,6 @@ namespace Spravoshnic_HSR
             Close();
         }
         string FileName = "";
-
-        
-        
-
-        private void PersPictureBox_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void PicButton_Click(object sender, EventArgs e)
         {

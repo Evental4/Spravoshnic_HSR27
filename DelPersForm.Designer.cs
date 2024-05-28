@@ -44,7 +44,7 @@
             // 
             this.DelButton.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.DelButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.DelButton.Location = new System.Drawing.Point(0, 183);
+            this.DelButton.Location = new System.Drawing.Point(0, 242);
             this.DelButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.DelButton.Name = "DelButton";
             this.DelButton.Size = new System.Drawing.Size(477, 109);
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(477, 292);
+            this.ClientSize = new System.Drawing.Size(477, 351);
             this.Controls.Add(this.ComboBox);
             this.Controls.Add(this.DelButton);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
