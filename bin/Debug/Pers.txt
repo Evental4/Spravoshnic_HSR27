@@ -44,7 +44,7 @@
 Цинцюе, DD, Квантовый, Эрудикция, 1023, 441, 652, 98, C, https://honkai-star-rail.fandom.com/ru/wiki/Цинцюе
 Юйкун, Sap, Мнимый, Гармония, 917, 374, 599, 107, B, https://honkai-star-rail.fandom.com/ru/wiki/Юйкун
 Яньцин, DD, Леденой, Охота, 892, 412, 679, 109, B, https://honkai-star-rail.fandom.com/ru/wiki/Яньцин
-Ахерон, DD, Электрический, Небытие, 1125, 436, 698, 101, SSS,
-Галлахер, Hiler, Огненый, Изобилие, 1305, 441, 529, 98, C,
-Авантюрин,  Defens, Мнимый, Сохранение, 1203, 654, 446, 106, S,  
-Чёрный Лебедь, Debaffer, Ветреной, Небытие, 1086, 485, 659, 102, A,  
+Ахерон, DD, Электрический, Небытие, 1125, 436, 698, 101, SSS, https://honkai-star-rail.fandom.com/ru/wiki/Ахерон
+Галлахер, Hiler, Огненый, Изобилие, 1305, 441, 529, 98, C, https://honkai-star-rail.fandom.com/ru/wiki/Галлахер
+Авантюрин,  Defens, Мнимый, Сохранение, 1203, 654, 446, 106, S, https://honkai-star-rail.fandom.com/ru/wiki/Авантюрин 
+Чёрный Лебедь, Debaffer, Ветреной, Небытие, 1086, 485, 659, 102, A, https://honkai-star-rail.fandom.com/ru/wiki/Чёрный_Лебедь 

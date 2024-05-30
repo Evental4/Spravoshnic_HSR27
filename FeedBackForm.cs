@@ -21,7 +21,7 @@ namespace Spravoshnic_HSR
         //отправка сообщения
         private void sendButton_Click_1(object sender, EventArgs e)
         {
-            MailAddress from = new MailAddress("spravochnik.avtomobilnyy@mail.ru");
+            MailAddress from = new MailAddress("evecrid@mail.ru");
 
             if (subjectСomboBox.Text == "")
             {

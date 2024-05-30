@@ -84,6 +84,7 @@ namespace Spravoshnic_HSR
             Text = "Справочник по HSR";
             HelloLabel.Visible = false;
             SelectFormBTN.Visible = false;
+            FeedBackbutton.Visible = false;
 
         }
         
@@ -124,6 +125,7 @@ namespace Spravoshnic_HSR
                 HelloLabel.Visible = false;
                 RegButton.Visible = true;
                 SelectFormBTN.Visible = false;
+                FeedBackbutton.Visible = false;
             }
             else
             {
@@ -131,6 +133,7 @@ namespace Spravoshnic_HSR
                 HelloLabel.Visible = true;
                 RegButton.Visible = false;
                 SelectFormBTN.Visible = true;
+                FeedBackbutton.Visible = true;
                 HelloLabel.Text = "Вы авторизовались как " + AuthForm.name + " " + AuthForm.family;
             }
         }
@@ -302,7 +305,7 @@ namespace Spravoshnic_HSR
                 player_error.Play();
                 MessageBox.Show("Нельзя тебе это, чудила");
             }
-            MainForm_Load_1(null, null);
+           MainForm_Load_1(null, null);
         }
         #endregion
         // избраное

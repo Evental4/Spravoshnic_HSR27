@@ -50,7 +50,7 @@ namespace Spravoshnic_HSR
                             per.name + ";" + per.pyte + ";" + per.tip + ";" + per.role);
                     }
 
-                    message.Attachments.Add(new Attachment("Избраное"));
+                    message.Attachments.Add(new Attachment("Избраное.csv"));
 
                     client.Host = "smtp.mail.ru";
                     client.Port = 587;

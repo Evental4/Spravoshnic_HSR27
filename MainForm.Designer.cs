@@ -261,24 +261,25 @@
             // 
             // contextMenuStrip1
             // 
+            this.contextMenuStrip1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.добавлениеОбъектаToolStripMenuItem,
             this.удалениеToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(191, 48);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(205, 70);
             // 
             // добавлениеОбъектаToolStripMenuItem
             // 
             this.добавлениеОбъектаToolStripMenuItem.Name = "добавлениеОбъектаToolStripMenuItem";
-            this.добавлениеОбъектаToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
+            this.добавлениеОбъектаToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.добавлениеОбъектаToolStripMenuItem.Text = "Добавить персонажа";
             this.добавлениеОбъектаToolStripMenuItem.Click += new System.EventHandler(this.добавлениеОбъектаToolStripMenuItem_Click_1);
             // 
             // удалениеToolStripMenuItem
             // 
             this.удалениеToolStripMenuItem.Name = "удалениеToolStripMenuItem";
-            this.удалениеToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
+            this.удалениеToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.удалениеToolStripMenuItem.Text = "Удаление персонажа";
             this.удалениеToolStripMenuItem.Click += new System.EventHandler(this.удалениеToolStripMenuItem_Click_1);
             // 
